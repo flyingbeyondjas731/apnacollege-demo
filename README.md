@@ -1,4 +1,4 @@
 # apnacollege-demo
-this nis my first git hub repo
+this is my first git hub repository
 <br>
 author-Jasmin Mohapatra
